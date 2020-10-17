@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e119b653-533b-47b6-b1f9-b271eef56165" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cvr_deepfm_stream.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-144">
+              <caret line="216" column="41" lean-forward="true" selection-start-line="216" selection-start-column="41" selection-end-line="216" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/input_embedding.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4224" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/log.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bst.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/capsule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="103" column="74" selection-start-line="103" selection-start-column="74" selection-end-line="103" selection-end-column="74" />
+              <folding>
+                <element signature="e#23#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vis/vis_hyperparameters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="879" column="67" selection-start-line="879" selection-start-column="67" selection-end-line="879" selection-end-column="67" />
+              <folding>
+                <element signature="e#78#96#0" expanded="true" />
+                <element signature="e#769#3746#0" />
+                <element signature="e#8723#12947#0" />
+                <marker date="1564045889211" expanded="true" signature="32617:32712" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/weight_decay.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/baseline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="19" column="77" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/models.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chain</find>
+      <find>get_inputs_list</find>
+      <find>get_att_pooling_vec_list</find>
+      <find>sequence_feature</find>
+      <find>'C29'</find>
+      <find>merge_sequence_input_with_attention</find>
+      <find>Self_Attention</find>
+      <find>data[name_col].applymap(lambda x: float(x))</find>
+      <find>print</find>
+      <find>C4</find>
+      <find>1</find>
+      <find>gen_dataset_dien</find>
+      <find>50</find>
+      <find>pickle</find>
+      <find>fuck it</find>
+      <find>neg</find>
+      <find>normalized_att_score</find>
+      <find>capsule</find>
+      <find>hue</find>
+      <find>51</find>
+      <find>input_num_capsule</find>
+      <find>use_feed_forward</find>
+      <find>auxiliary_loss</find>
+      <find>interest_evolution</find>
+      <find>softmax</find>
+      <find>Reshape</find>
+      <find>kernel_size</find>
+      <find>disp_loss</find>
+      <find>callbacks</find>
+      <find>LossHistory</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>pkl</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hello_worls.py" />
+        <option value="$PROJECT_DIR$/hello_world.py" />
+        <option value="$PROJECT_DIR$/data/feature_conf" />
+        <option value="$PROJECT_DIR$/din.py" />
+        <option value="$PROJECT_DIR$/DIEN.py" />
+        <option value="$PROJECT_DIR$/DeepFM.py" />
+        <option value="$PROJECT_DIR$/cvr_helloworld.py" />
+        <option value="$PROJECT_DIR$/src/preprocess.py" />
+        <option value="$PROJECT_DIR$/src/reader.py" />
+        <option value="$PROJECT_DIR$/data/dac/unit_test.txt" />
+        <option value="$PROJECT_DIR$/src/log.py" />
+        <option value="$PROJECT_DIR$/data/cvr_data/test" />
+        <option value="$PROJECT_DIR$/src/hello_world.py" />
+        <option value="$PROJECT_DIR$/src/cvr_helloworld.py" />
+        <option value="$PROJECT_DIR$/src/base/cvr_helloworld.py" />
+        <option value="$PROJECT_DIR$/data/cvr_data/feature_conf" />
+        <option value="$PROJECT_DIR$/feature_id" />
+        <option value="$PROJECT_DIR$/src/cvr_din.py" />
+        <option value="$PROJECT_DIR$/src/input_embeddings.py" />
+        <option value="$PROJECT_DIR$/src/models.py" />
+        <option value="$PROJECT_DIR$/src/input_embedding.py" />
+        <option value="$PROJECT_DIR$/src/baseline.py" />
+        <option value="D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/deepctr/models/dien.py" />
+        <option value="$PROJECT_DIR$/data/cvr_data/small_tiny_v2.txt" />
+        <option value="$PROJECT_DIR$/vis.py" />
+        <option value="$PROJECT_DIR$/src/count.py" />
+        <option value="$PROJECT_DIR$/amazon/preprocess.py" />
+        <option value="$PROJECT_DIR$/vis/main.py" />
+        <option value="D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/deepctr/layers/sequence.py" />
+        <option value="$PROJECT_DIR$/src/cvr_deepfm.py" />
+        <option value="D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/deepctr/input_embedding.py" />
+        <option value="$PROJECT_DIR$/src/bst.py" />
+        <option value="$PROJECT_DIR$/src/run_din.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/7zO4D9E4E29/capsule.py" />
+        <option value="$PROJECT_DIR$/vis/example_tsne.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$0/sequence.py" />
+        <option value="$PROJECT_DIR$/vis/visual_time.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$0/capsule.py" />
+        <option value="$PROJECT_DIR$/vis/tsne.py" />
+        <option value="$PROJECT_DIR$/vis/heatmap.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$4/capsule.py" />
+        <option value="$PROJECT_DIR$/src/weight_decay.py" />
+        <option value="$PROJECT_DIR$/src/cvr_deepfm_stream.py" />
+        <option value="$PROJECT_DIR$/src/sequence.py" />
+        <option value="$PROJECT_DIR$/vis/vis_hyperparameters.py" />
+        <option value="$PROJECT_DIR$/src/capsule.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="impl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="impl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="checkpoints" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="impl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="impl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="impl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="vis" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CogQA-master" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\impl\src\preprocess" />
+      <recent name="E:\impl\src\base" />
+      <recent name="E:\impl\data\others" />
+      <recent name="E:\impl\data\cvr_data" />
+      <recent name="E:\impl\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\impl\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.cvr_deepfm_stream">
+    <configuration name="capsule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="impl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/capsule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cvr_deepfm_stream" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="impl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/cvr_deepfm_stream.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="heatmap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="impl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vis/heatmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tsne" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="impl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\impl\vis\heatmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vis_hyperparameters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="impl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vis/vis_hyperparameters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cvr_deepfm_stream" />
+        <item itemvalue="Python.capsule" />
+        <item itemvalue="Python.vis_hyperparameters" />
+        <item itemvalue="Python.heatmap" />
+        <item itemvalue="Python.tsne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e119b653-533b-47b6-b1f9-b271eef56165" name="Default Changelist" comment="" />
+      <created>1557309735548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557309735548</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50748754" visible="true" weight="0.16067654" />
+      <window_info id="Structure" order="1" sideWeight="0.49251246" side_tool="true" weight="0.16067654" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924107" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955357" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924107" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26450893" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32924107" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24788584" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32924107" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32924107" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32924107" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/deepctr/layers/sequence.py</url>
+          <line>414</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/deepctr/input_embedding.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/deepctr/input_embedding.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/sequence.py</url>
+          <line>793</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zOCC472906/capsule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1386" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO89E5EE2F/capsule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="84" column="12" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO43D8C5BD/sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-305">
+          <caret line="743" selection-start-line="743" selection-end-line="810" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/deepctr/layers/interaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1022">
+          <caret line="117" column="33" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/deepctr/models/afm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/numpy/lib/npyio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="467" column="4" selection-start-line="467" selection-start-column="4" selection-end-line="467" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/seaborn/relational.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="1325" column="51" lean-forward="true" selection-start-line="1325" selection-start-column="51" selection-end-line="1325" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/seaborn/axisgrid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="214" column="8" selection-start-line="214" selection-start-column="8" selection-end-line="214" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO06063BC9/capsule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/deepctr/models/din.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="86" column="109" selection-start-line="86" selection-start-column="88" selection-end-line="86" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vis/微信截图_20190528172853.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cvr_deepfm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-704">
+          <caret line="5" column="46" selection-start-line="5" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vis/example_tsne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/tensorflow/python/keras/engine/training.py" />
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/tensorflow/python/ops/variable_scope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="1455" column="4" selection-start-line="1455" selection-start-column="4" selection-end-line="1455" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$0/sequence.py" />
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/seaborn/categorical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="3328" column="46" selection-start-line="3328" selection-start-column="39" selection-end-line="3328" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$1/sequence.py" />
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="1270" column="4" selection-start-line="1270" selection-start-column="4" selection-end-line="1270" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vis/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="34" selection-start-line="34" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cvr_data/small_tiny_v2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vis/Figure_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/seaborn/matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="333" column="22" selection-start-line="333" selection-start-column="12" selection-end-line="333" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vis/visual_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vis/heatmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+            <marker date="1560391061419" expanded="true" signature="280:691" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$1/capsule.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$2/capsule.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$3/sequence.py" />
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/deepctr/layers/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="94" column="17" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/tensorflow/python/keras/backend.py" />
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/deepctr/models/dien.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="231" column="22" selection-start-line="231" selection-start-column="14" selection-end-line="231" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocess/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1386" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$4/cnn_model.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$4/capsule.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$5/capsule.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$6/sequence.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$7/capsule.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$8/capsule.py" />
+    <entry file="file://D:/Program Files/anaconda3/envs/python3.6/Lib/site-packages/deepctr/input_embedding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="135" column="4" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+          <folding>
+            <element signature="e#78#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$0/capsule.py" />
+    <entry file="file://$PROJECT_DIR$/src/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bst.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weight_decay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="879" column="67" selection-start-line="879" selection-start-column="67" selection-end-line="879" selection-end-column="67" />
+          <folding>
+            <element signature="e#78#96#0" expanded="true" />
+            <element signature="e#769#3746#0" />
+            <element signature="e#8723#12947#0" />
+            <marker date="1564045889211" expanded="true" signature="32617:32712" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$10/baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1086" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vis/vis_hyperparameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="77" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/input_embedding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/capsule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="103" column="74" selection-start-line="103" selection-start-column="74" selection-end-line="103" selection-end-column="74" />
+          <folding>
+            <element signature="e#23#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cvr_deepfm_stream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="216" column="41" lean-forward="true" selection-start-line="216" selection-start-column="41" selection-end-line="216" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,186 @@
+ClickId	2	*
+QQ	3	*
+AdIndexId	4
+AdvertiserId	5
+ProductId	6
+CampaignId	7
+ProductType	8
+PositionId	9
+SiteSet	10
+ProcessHour	11
+Age	12
+Gender	13
+Education	14
+ConnectionType	15
+ConsumptionAbilityLevel	16
+Profession	17
+MarriageStatus	18
+DeviceAppInstall	19	#
+DeviceAppActivateAddIos	20	#
+CreativeId	21
+Ip24	22
+Ip16	23
+Ip8	24
+MachineModel	25
+AppMarket	26	#
+IsIosJailBroken	27
+FeedsScreenNo	28
+PositionCategory	29	$$$$$$$$$$$$$$ no in 20190506.txt
+IndustryId	30
+PublisherId	31
+MediaAppid	32
+AdNovelty2Hour	33
+AdNovelty12Hour	34
+AdNovelty24Hour	35
+AdNovelty72Hour	36
+AdNovelty168Hour	37
+ClickedAdsCut	38	#
+PlacementType	39
+AdPullMode	40
+ConvertedAds	41	#
+ConvertedPosition	42	#
+ConvertedActionType	43	#
+LocardApp7daysCategoriesAttr	44	#
+LocardApp7daysKeywordsAttr	45	#
+LocardApp30daysCategoriesAttr	46	#
+LocardApp30daysKeywordsAttr	47	#
+LocardApp360daysCategoriesAttr	48
+LocardApp360daysKeywordsAttr	49
+ClickedAdsCut,AdIndexId	50
+ConvertedAds,AdIndexId	51
+ConvertedPosition,AdIndexId	52
+ConvertedActionType,AdIndexId	53
+AdIndexId,Age	54
+AdIndexId,Gender	55
+AdIndexId,Education	56
+AdIndexId,ConnectionType	57
+AdIndexId,Carrier	58
+AdIndexId,ConsumptionAbilityLevel	59
+AdIndexId,Profession	60
+AdIndexId,MarriageStatus	61
+AdIndexId,PositionId	62
+AdIndexId,SiteSet	63
+AdIndexId,ProcessHour	64
+AdvertiserId,ProductId,Age	65
+AdvertiserId,ProductId,Gender	66
+AdvertiserId,ProductId,Education	67
+AdvertiserId,ProductId,ConnectionType	68
+AdvertiserId,ProductId,Carrier	69
+AdvertiserId,ProductId,ConsumptionAbilityLevel	70
+AdvertiserId,ProductId,Profession	71
+AdvertiserId,ProductId,MarriageStatus	72
+AdvertiserId,ProductId,PositionId	73	#
+AdvertiserId,ProductId,SiteSet	74
+AdvertiserId,ProductId,ProcessHour	75
+AdIndexId,Ip16	76
+AdIndexId,Ip8	77
+AdIndexId,MachineModel	78
+AdIndexId,AppMarket	79
+AdIndexId,IsIosJailBroken	80
+AdIndexId,FeedsScreenNo	81
+AdIndexId,PositionCategory	82
+AdIndexId,IndustryId	83	#
+AdIndexId,PublisherId	84
+AdIndexId,MediaAppid	85
+AdvertiserId,Ip16	86
+AdvertiserId,Ip8	87
+AdvertiserId,MachineModel	88
+AdvertiserId,AppMarket	89
+AdvertiserId,IsIosJailBroken	90
+AdvertiserId,FeedsScreenNo	91
+AdvertiserId,PositionCategory	92
+AdvertiserId,IndustryId	93
+AdvertiserId,PublisherId	94
+AdvertiserId,MediaAppid	95
+ProductType,Age	96
+ProductType,Gender	97
+ProductType,Education	98
+ProductType,ConnectionType	99
+ProductType,Carrier	100
+ProductType,ConsumptionAbilityLevel	101
+ProductType,Profession	102
+ProductType,MarriageStatus	103
+ProductType,PositionId	104	#
+ProductType,SiteSet	105
+ProductType,ProcessHour	106
+ProductType,Ip16	107
+ProductType,Ip8	108
+ProductType,MachineModel	109
+ProductType,AppMarket	110
+ProductType,IsIosJailBroken	111
+ProductType,FeedsScreenNo	112
+ProductType,PositionCategory	113
+ProductType,IndustryId	114	#
+ProductType,PublisherId	115
+ProductType,MediaAppid	116
+ProductId,Ip16	117
+ProductId,Ip8	118
+ProductId,MachineModel	119
+ProductId,AppMarket	120
+ProductId,IsIosJailBroken	121
+ProductId,FeedsScreenNo	122
+ProductId,PositionCategory	123
+ProductId,IndustryId	124
+ProductId,PublisherId	125
+ProductId,MediaAppid	126
+Age,PositionId	127
+Age,SiteSet	128
+Age,ProcessHour	129
+Gender,PositionId	130
+Gender,SiteSet	131
+Gender,ProcessHour	132
+Education,PositionId	133
+Education,SiteSet	134
+Education,ProcessHour	135
+ConnectionType,PositionId	136
+ConnectionType,SiteSet	137
+ConnectionType,ProcessHour	138
+Carrier,PositionId	139
+Carrier,SiteSet	140
+Carrier,ProcessHour	141
+ConsumptionAbilityLevel,PositionId	142
+ConsumptionAbilityLevel,SiteSet	143
+ConsumptionAbilityLevel,ProcessHour	144
+Profession,PositionId	145
+Profession,SiteSet	146
+Profession,ProcessHour	147	#
+MarriageStatus,PositionId	148	#
+MarriageStatus,SiteSet	149
+MarriageStatus,ProcessHour	150
+PositionId,ProcessHour	151
+SiteSet,ProcessHour	152
+DeviceAppInstall,ProductId	153
+DeviceAppActivateAddIos,ProductId	154
+CreativeId,Age	155
+CreativeId,Gender	156
+CreativeId,Education	157
+CreativeId,ConnectionType	158
+CreativeId,Carrier	159
+CreativeId,ConsumptionAbilityLevel	160
+CreativeId,Profession	161
+CreativeId,MarriageStatus	162
+CreativeId,PositionId	163
+CreativeId,SiteSet	164
+CreativeId,ProcessHour	165
+AdNovelty12Hour,AdIndexId	166
+AdNovelty24Hour,AdIndexId	167
+AdNovelty72Hour,AdIndexId	168
+AdNovelty12Hour,Age	169
+AdNovelty24Hour,Age	170
+AdNovelty72Hour,Age	171
+AdNovelty12Hour,Gender	172
+AdNovelty24Hour,Gender	173
+AdNovelty72Hour,Gender	174
+AdNovelty12Hour,Education	175
+AdNovelty24Hour,Education	176
+AdNovelty72Hour,Education	177
+AdNovelty12Hour,ConnectionType	178
+AdNovelty24Hour,ConnectionType	179
+AdNovelty72Hour,ConnectionType	180
+AdNovelty12Hour,PositionId	181
+AdNovelty48Hour,PositionId	182
+AdNovelty72Hour,PositionId	183
+AdNovelty12Hour,ProductType	184
+AdNovelty48Hour,ProductType	185
+AdNovelty72Hour,ProductType	186
+PlacementType,AdPullMode	187
