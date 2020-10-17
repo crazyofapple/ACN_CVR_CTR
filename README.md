@@ -1,5 +1,3 @@
-# ACN_CVR_CTR
-Attentive Capsule Network for Click-through Rate and Conversion Rate Prediction in Online Advertising
 ## Attentive Capsule Network 
 
 我们提出了一种使用注意力胶囊网络进行CTR/CVR预估的工作。
@@ -22,7 +20,7 @@ Attentive Capsule Network for Click-through Rate and Conversion Rate Prediction 
 
 ## 数据集
 
-TC CVR数据集是根据来自广告oCPA平台的点击广告日志构建的。 从2k广告中随机抽取了2.9亿个点击的记录。 在此任务中，标签是不平衡的，用户点击的广告和转换后的广告历史记录用作行为序列。 我们将数据集分为训练，开发和测试数据集，比例为8：1：1。
+TC CVR数据集是根据来自广告平台的点击广告日志构建的。 从2k广告中随机抽取了2.9亿个点击的记录。 在此任务中，标签是不平衡的，用户点击的广告和转换后的广告历史记录用作行为序列。 我们将数据集分为训练，开发和测试数据集，比例为8：1：1。
 
 ## 实验结果
 

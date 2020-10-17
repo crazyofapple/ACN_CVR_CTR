@@ -1,0 +1,9 @@
+deepctr
+requests
+h5py
+tqdm
+numpy==1.15.1
+pandas==0.22.0
+scikit-learn==0.19.2
+tensorflow-gpu==1.12 # for cvr
+# tensorflow-gpu==1.4 # for public adv dataset
