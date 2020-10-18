@@ -58,7 +58,6 @@ Result of the TC CVR Dataset （主结果和Ablation Study)
 
 在内部数据集TC-CVR上的实验代码在acn_for_cvr文件夹下
 
-由于数据量较大，为了方便，我们虚拟了一个小的数据集在data目录，读者可以自行处理数据放在`cephfs`的相应路径，目前不支持`hdfs`数据直接读取。
 
 训练和测试命令：
 
@@ -72,11 +71,11 @@ Tesla运行:
 
 ```shell
 python cvr_stream.py \
-	--train-dir=/cephfs/group/sng-gdt-isd-conversion/dongfangli/data/cvr/stream_data/pdata_20190506_0510_train.csv \
-	--val-dir=/cephfs/group/sng-gdt-isd-	conversion/dongfangli/data/cvr/stream_data/pdata_20190506_0510_val.csv \
-	--test-dir=/cephfs/group/sng-gdt-isd-conversion/dongfangli/data/cvr/stream_data/pdata_20190506_0510_test.csv \
-	--save-dir=/cephfs/group/sng-gdt-isd-conversion/dongfangli/checkpoints \
-	--log-dir=/cephfs/group/sng-gdt-isd-conversion/dongfangli/log_v4 \
+	--train-dir=$DATADIR/pdata_20190506_0510_train.csv \
+	--val-dir=$DATADIR/pdata_20190506_0510_val.csv \
+	--test-dir=$DATADIR/pdata_20190506_0510_test.csv \
+	--save-dir=$DATADIR/checkpoints \
+	--log-dir=$DATADIR/log_v4 \
 	--model=capsule_hdfs \
 	--mode=train \
 	--nrows=-1 \
