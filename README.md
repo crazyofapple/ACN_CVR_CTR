@@ -2,6 +2,7 @@
 
 我们提出了一种使用注意力胶囊网络进行CTR/CVR预估的工作。
 
+Reference: Li D, Hu B, Chen Q, et al. Attentive capsule network for click-through rate and conversion rate prediction in online advertising[J]. Knowledge-Based Systems, 2020: 106522.
 ### 模型结构
 
 用户的兴趣存在并交叉于用户历史点击和转化数据中，如何利用当前广告和用户历史点击转化行为的关联性显得极为重要。比如说用户历史中不同时间段都点击过这种类型的广告，说明他对此类型广告曾经或者阶段性感兴趣，从而可能产生当前转化行为（比如社交app，游戏）。传统的模型对于用户历史行为只使用max或者mean池化，损失了序列特征信息。最近，为了建模序列特征，一些深度学习模型被相继提出，比如DIN，DIEN，DSIN等。然而，DIN建模没有考虑时序演化，基于RNN序列建模的DIEN没有考虑到序列内在结构且两层的gru显得太笨重，而基于用户行为Session的DSIN则只是手工划分历史行为阶段，忽视了兴趣的离散性和多样性（the discretization and diverse of user interests)。另一方面，胶囊网络已经在图像领域（数字识别，物体检测等）和自然语言处理任务中（文本分类，关系抽取等）证明有效， 特别多类别重叠的样例识别。
